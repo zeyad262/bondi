@@ -6,6 +6,9 @@
    --section-color:#eff7fa;
    
 }
+html, body{
+    overflow-x: hidden;
+}
 /* start componants */
 .main-btn{
    color: var(--yellow-color);
